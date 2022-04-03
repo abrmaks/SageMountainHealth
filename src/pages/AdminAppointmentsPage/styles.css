@@ -1,0 +1,20 @@
+.rbc-day-slot .rbc-events-container {
+    margin-right: 0px;
+}
+
+.rbc-event {
+    padding: 1px 5px;
+}
+
+.rbc-label {
+    padding: 0 9px;
+}
+
+.rbc-time-content > .rbc-time-gutter {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.rbc-event.rbc-selected, .rbc-day-slot .rbc-selected.rbc-background-event {
+    background-color: #0a7631;
+}

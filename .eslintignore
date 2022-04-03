@@ -1,0 +1,4 @@
+node_modules
+/.git
+src/serviceWorker.js
+src/reportWebVitals.js
